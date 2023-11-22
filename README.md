@@ -7,6 +7,7 @@ The chatbot reads incoming messages and responds contextually using predefined r
 In the current landscape of digital communication, users often face challenges in accessing contextual information swiftly within messaging platforms. Traditional chatbots lack real-time interaction cues, limiting their adaptability to user activities. This project addresses the need for an interactive and context-aware solution by developing a rule-based chatbot integrated with WhatsApp, empowered with real-time mouse pointer tracking. The aim is to provide users with a dynamic and responsive conversational experience, bridging the gap between static chatbot interactions and the real-time context of user activities on their devices.
 
 2. Methodology
+
 2.1 Tools and Technologies Used
 1. Python: The primary programming language for developing the chatbot and its associated functionalities.
 2. Pyautogui: Utilized for real-time mouse pointer tracking, enabling the chatbot to capture and analyse user interactions on the device.
